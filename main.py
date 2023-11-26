@@ -1,1 +1,1 @@
-pint('olá mundo')
+pint('olá 1')
